@@ -50,7 +50,8 @@
 
 ## 🔥 Updates
 
-- Act2Cut was accepted to **SIGGRAPH Asia 2026**. The [presentation and poster](https://aigcresearch.github.io/Act2Cut.github.io/#poster) are scheduled for **December 2, 2026, 4:30–5:35 PM local time**, in the *Directing the Video* session at Conference Hall 1, Level 3, Kuala Lumpur Convention Centre.
+- [ ] Model refinement ongoing; open-source release actively progressing.
+- [x] Act2Cut was accepted to **SIGGRAPH Asia 2026**. The [presentation and poster](https://aigcresearch.github.io/Act2Cut.github.io/#poster) are scheduled for **December 2, 2026, 4:30–5:35 PM local time**, in the *Directing the Video* session at Conference Hall 1, Level 3, Kuala Lumpur Convention Centre.
 
 ## 📌 TL;DR
 
