@@ -73,7 +73,7 @@ Act2Cut is a unified framework for **continuous-action cinematic multi-shot vide
 
 ## 📑 Supported Tasks
 
-Act2Cut entry points in this repository use **Wan2.2-TI2V-5B** at `1280x704` by default, natively supporting both Text-to-Video and Image-to-Video within a single model.
+Act2Cut based on **Wan2.2-TI2V-5B**, natively supporting both Text-to-Video and Image-to-Video within a single model.
 
 ### Generation Task
 
