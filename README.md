@@ -73,7 +73,7 @@ Act2Cut is a unified framework for **continuous-action cinematic multi-shot vide
 
 ## 📑 Supported Tasks
 
-Act2Cut based on **Wan2.2-TI2V-5B**, natively supporting both Text-to-Video and Image-to-Video within a single model.
+Act2Cut is built on **Wan2.2-TI2V-5B**, which natively supports both Text-to-Video and Image-to-Video within a single model.
 
 ### Generation Task
 
