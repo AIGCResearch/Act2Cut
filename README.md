@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/teaser.png" width="100%" alt="Act2Cut overview">
+  <img src="assets/teaser-sa.png" width="100%" alt="Act2Cut overview">
 </p>
 
 ## 🔥 Updates
